@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+input[type="number"] {
+    margin-left: 10px;
+    width: 50px;
+    font-size: 16px;
+}
